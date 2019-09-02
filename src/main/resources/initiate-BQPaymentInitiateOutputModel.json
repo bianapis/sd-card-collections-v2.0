@@ -1,0 +1,9 @@
+{
+  "paymentInitiateActionRecord" : {},
+  "paymentInstanceReference" : "CCPIR748864",
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule"
+  },
+  "paymentInitiateActionReference" : "CCPIAR758958",
+  "paymentInstanceStatus" : "paymentInstanceStatus"
+}

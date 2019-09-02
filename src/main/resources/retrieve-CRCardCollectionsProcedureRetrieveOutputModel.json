@@ -1,0 +1,38 @@
+{
+  "cardCollectionsProcedureRetrieveActionTaskReference" : "CCPRATR715914",
+  "cardCollectionsProcedureRetrieveActionTaskRecord" : {},
+  "cardCollectionsProcedureInstanceAnalysis" : {
+    "cardCollectionsProcedureInstanceAnalysisReportType" : "cardCollectionsProcedureInstanceAnalysisReportType",
+    "cardCollectionsProcedureInstanceAnalysisData" : "cardCollectionsProcedureInstanceAnalysisData",
+    "cardCollectionsProcedureInstanceAnalysisReport" : {}
+  },
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardAccountLimits" : "cardAccountLimits",
+    "taxReference" : "744109",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "732220"
+    },
+    "cardType" : "cardType",
+    "configurationOptions" : "configurationOptions",
+    "statements" : {
+      "statementsReference" : "782889"
+    },
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule",
+    "productServiceType" : "productServiceType",
+    "productInstanceReference" : "741102",
+    "cardAccountStatus" : "cardAccountStatus",
+    "customerReference" : "724433",
+    "productTransactions" : {
+      "productTransactionReference" : "710403"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "728013"
+    }
+  },
+  "cardCollectionsProcedureRetrieveActionResponse" : "cardCollectionsProcedureRetrieveActionResponse",
+  "cardCollectionsProcedureInstanceReportRecord" : {
+    "cardCollectionsProcedureInstanceReport" : {},
+    "cardCollectionsProcedureInstanceReportType" : "cardCollectionsProcedureInstanceReportType",
+    "cardCollectionsProcedureInstanceReportData" : "cardCollectionsProcedureInstanceReportData"
+  }
+}

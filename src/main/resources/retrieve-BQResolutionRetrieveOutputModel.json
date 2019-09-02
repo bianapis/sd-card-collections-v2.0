@@ -1,0 +1,44 @@
+{
+  "resolutionRetrieveActionResponse" : "resolutionRetrieveActionResponse",
+  "resolutionRetrieveActionTaskRecord" : {},
+  "resolutionInstanceAnalysis" : {
+    "resolutionInstanceAnalysisReport" : {},
+    "resolutionInstanceAnalysisRecord" : {},
+    "resolutionInstanceAnalysisParameters" : "resolutionInstanceAnalysisParameters",
+    "resolutionInstanceAnalysisReportType" : "resolutionInstanceAnalysisReportType"
+  },
+  "resolutionInstanceRecord" : {
+    "cardCollectionsResolutionDecision" : "cardCollectionsResolutionDecision",
+    "cardCollectionsResolutionWorkProduct" : "cardCollectionsResolutionWorkProduct"
+  },
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardAccountLimits" : "cardAccountLimits",
+    "taxReference" : "799644",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "763985"
+    },
+    "cardType" : "cardType",
+    "configurationOptions" : "configurationOptions",
+    "statements" : {
+      "statementsReference" : "763193"
+    },
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule",
+    "productServiceType" : "productServiceType",
+    "productInstanceReference" : "754115",
+    "cardAccountStatus" : "cardAccountStatus",
+    "customerReference" : "750486",
+    "productTransactions" : {
+      "productTransactionReference" : "797479"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "762230"
+    }
+  },
+  "resolutionRetrieveActionTaskReference" : "RRATR764728",
+  "resolutionInstanceReport" : {
+    "resolutionInstanceReportType" : "resolutionInstanceReportType",
+    "resolutionInstanceReportRecord" : {},
+    "resolutionInstanceReportParameters" : "resolutionInstanceReportParameters",
+    "resolutionInstanceReport" : {}
+  }
+}

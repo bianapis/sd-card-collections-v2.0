@@ -1,0 +1,28 @@
+{
+  "cardCollectionsProcedureUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "cardCollectionsProcedureUpdateActionTaskReference" : "CCPUATR795387",
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardAccountLimits" : "cardAccountLimits",
+    "taxReference" : "719691",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "771903"
+    },
+    "cardType" : "cardType",
+    "configurationOptions" : "configurationOptions",
+    "statements" : {
+      "statementsReference" : "786125"
+    },
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule",
+    "productServiceType" : "productServiceType",
+    "productInstanceReference" : "798880",
+    "cardAccountStatus" : "cardAccountStatus",
+    "customerReference" : "720349",
+    "productTransactions" : {
+      "productTransactionReference" : "743629"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "779237"
+    }
+  }
+}

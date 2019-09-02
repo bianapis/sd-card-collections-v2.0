@@ -1,0 +1,9 @@
+{
+  "requestRecordReference" : "RRR785626",
+  "cardCollectionsProcedureRequestActionTaskReference" : "CCPRATR745920",
+  "cardCollectionsProcedureRequestActionTaskRecord" : {},
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule"
+  },
+  "requestResponseRecord" : {}
+}

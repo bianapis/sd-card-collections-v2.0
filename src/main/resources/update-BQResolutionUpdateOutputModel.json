@@ -1,0 +1,9 @@
+{
+  "resolutionUpdateActionTaskReference" : "RUATR733251",
+  "resolutionUpdateActionTaskRecord" : {},
+  "resolutionInstanceRecord" : {
+    "cardCollectionsResolutionDecision" : "cardCollectionsResolutionDecision",
+    "cardCollectionsResolutionWorkProduct" : "cardCollectionsResolutionWorkProduct"
+  },
+  "updateResponseRecord" : {}
+}

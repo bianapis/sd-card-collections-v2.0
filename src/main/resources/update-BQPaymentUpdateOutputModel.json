@@ -1,0 +1,10 @@
+{
+  "paymentUpdateActionTaskReference" : "CCPUATR794722",
+  "paymentInstanceRecord" : {
+    "paymentTransactionReference" : "720737",
+    "cardCollectionsPaymentNotificationRecord" : {},
+    "paymentTransaction" : "paymentTransaction"
+  },
+  "paymentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

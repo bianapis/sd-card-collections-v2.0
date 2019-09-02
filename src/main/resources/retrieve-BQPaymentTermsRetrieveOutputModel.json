@@ -1,0 +1,53 @@
+{
+  "paymentTermsRetrieveActionTaskRecord" : {},
+  "paymentTermsInstanceAnalysis" : {
+    "paymentTermsInstanceAnalysisReportType" : "paymentTermsInstanceAnalysisReportType",
+    "paymentTermsInstanceAnalysisRecord" : {},
+    "paymentTermsInstanceAnalysisParameters" : "paymentTermsInstanceAnalysisParameters",
+    "paymentTermsInstanceAnalysisReport" : {}
+  },
+  "paymentTermsInstanceRecord" : {
+    "cardCollectionsPaymentTermsWorkProduct" : "cardCollectionsPaymentTermsWorkProduct",
+    "cardCollectionsPaymentTermsContactRecord" : {
+      "correspondenceInstanceReference" : "753683",
+      "contactMessage" : "contactMessage",
+      "contactDate" : "09-22-2018",
+      "correspondenceContent" : "correspondenceContent",
+      "contactResult" : "contactResult",
+      "documentContent" : "documentContent",
+      "documentDirectoryEntryInstanceReference" : "757180"
+    },
+    "cardCollectionsPaymentTermsRenegotiationDecision" : "cardCollectionsPaymentTermsRenegotiationDecision"
+  },
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardAccountLimits" : "cardAccountLimits",
+    "taxReference" : "732721",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "701856"
+    },
+    "cardType" : "cardType",
+    "configurationOptions" : "configurationOptions",
+    "statements" : {
+      "statementsReference" : "798305"
+    },
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule",
+    "productServiceType" : "productServiceType",
+    "productInstanceReference" : "730501",
+    "cardAccountStatus" : "cardAccountStatus",
+    "customerReference" : "776981",
+    "productTransactions" : {
+      "productTransactionReference" : "743208"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "749370"
+    }
+  },
+  "paymentTermsRetrieveActionTaskReference" : "PTRATR753310",
+  "paymentTermsRetrieveActionResponse" : "paymentTermsRetrieveActionResponse",
+  "paymentTermsInstanceReport" : {
+    "paymentTermsInstanceReportRecord" : {},
+    "paymentTermsInstanceReportType" : "paymentTermsInstanceReportType",
+    "paymentTermsInstanceReportParameters" : "paymentTermsInstanceReportParameters",
+    "paymentTermsInstanceReport" : {}
+  }
+}

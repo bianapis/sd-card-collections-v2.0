@@ -1,0 +1,33 @@
+{
+  "paymentRetrieveActionResponse" : "paymentRetrieveActionResponse",
+  "paymentRetrieveActionTaskReference" : "CCPRATR709416",
+  "paymentRetrieveActionTaskRecord" : {},
+  "paymentInstanceRecord" : {
+    "paymentTransactionReference" : "705415",
+    "cardCollectionsPaymentNotificationRecord" : {},
+    "paymentTransaction" : "paymentTransaction"
+  },
+  "cardCollectionsProcedureInstanceRecord" : {
+    "productInstanceReference" : "733890",
+    "cardAccountStatus" : "cardAccountStatus",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "713935"
+    },
+    "customerReference" : "723877",
+    "cardType" : "cardType",
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule",
+    "productServiceType" : "productServiceType"
+  },
+  "paymentInstanceReport" : {
+    "paymentInstanceReportParameters" : "paymentInstanceReportParameters",
+    "paymentInstanceReportType" : "paymentInstanceReportType",
+    "paymentInstanceReportRecord" : {},
+    "paymentInstanceReport" : {}
+  },
+  "paymentInstanceAnalysis" : {
+    "paymentInstanceAnalysisReport" : {},
+    "paymentInstanceAnalysisParameters" : "paymentInstanceAnalysisParameters",
+    "paymentInstanceAnalysisReportType" : "paymentInstanceAnalysisReportType",
+    "paymentInstanceAnalysisRecord" : {}
+  }
+}

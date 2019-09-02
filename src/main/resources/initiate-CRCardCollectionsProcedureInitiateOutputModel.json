@@ -1,0 +1,9 @@
+{
+  "cardCollectionsProcedureInstanceStatus" : "cardCollectionsProcedureInstanceStatus",
+  "cardCollectionsProcedureInstanceReference" : "CCPIR790991",
+  "cardCollectionsProcedureInitiateActionRecord" : {},
+  "cardCollectionsProcedureInitiateActionReference" : "CCPIAR771173",
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "assignmentRetrieveActionTaskReference" : "ARATR771462",
+  "assignmentInstanceAnalysis" : {
+    "assignmentInstanceAnalysisReportType" : "assignmentInstanceAnalysisReportType",
+    "assignmentInstanceAnalysisReport" : {},
+    "assignmentInstanceAnalysisRecord" : {},
+    "assignmentInstanceAnalysisParameters" : "assignmentInstanceAnalysisParameters"
+  },
+  "assignmentInstanceRecord" : {
+    "customerCreditRatingAssessment" : "customerCreditRatingAssessment",
+    "cardCollectionsAssignmentDecision" : "cardCollectionsAssignmentDecision",
+    "collectionAgencyReference" : "740737",
+    "cardCollectionsAssignmentWorkProduct" : "cardCollectionsAssignmentWorkProduct",
+    "customerCreditRatingAssessmentInstanceReference" : "783716",
+    "collectionAgencyAgreement" : "collectionAgencyAgreement"
+  },
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardAccountLimits" : "cardAccountLimits",
+    "taxReference" : "710636",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "757462"
+    },
+    "cardType" : "cardType",
+    "configurationOptions" : "configurationOptions",
+    "statements" : {
+      "statementsReference" : "777117"
+    },
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule",
+    "productServiceType" : "productServiceType",
+    "productInstanceReference" : "770052",
+    "cardAccountStatus" : "cardAccountStatus",
+    "customerReference" : "741377",
+    "productTransactions" : {
+      "productTransactionReference" : "721050"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "750211"
+    }
+  },
+  "assignmentInstanceReport" : {
+    "assignmentInstanceReportType" : "assignmentInstanceReportType",
+    "assignmentInstanceReportParameters" : "assignmentInstanceReportParameters",
+    "assignmentInstanceReportRecord" : {},
+    "assignmentInstanceReport" : {}
+  },
+  "assignmentRetrieveActionTaskRecord" : {},
+  "assignmentRetrieveActionResponse" : "assignmentRetrieveActionResponse"
+}

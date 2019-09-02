@@ -1,0 +1,9 @@
+{
+  "executeRecordReference" : "ERR757651",
+  "executeResponseRecord" : {},
+  "cardCollectionsProcedureExecuteActionTaskReference" : "CCPEATR773526",
+  "cardCollectionsProcedureInstanceRecord" : {
+    "cardCollectionsProcessingSchedule" : "cardCollectionsProcessingSchedule"
+  },
+  "cardCollectionsProcedureExecuteActionTaskRecord" : {}
+}
